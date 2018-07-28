@@ -1,0 +1,3 @@
+rootProject.name = 'webflux-quasar-demo'
+include 'backend'
+

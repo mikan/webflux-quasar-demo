@@ -1,0 +1,30 @@
+.quasar
+.DS_Store
+.thumbs.db
+node_modules
+/dist
+/src-cordova/platforms
+/src-cordova/plugins
+/src-cordova/www
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Gradle
+.gradle
+build
+
+# IntelliJ
+*.iml
+out
+
+# Frontend
+/backend/src/main/resources/static
